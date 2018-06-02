@@ -1,0 +1,25 @@
+{
+  "name": "weather-app-expressapi",
+  "version": "1.0.0",
+  "description": "Weather App with API caching and calls",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laddeyboy/weather-app-expressAPI.git"
+  },
+  "author": "Josh Ladwig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laddeyboy/weather-app-expressAPI/issues"
+  },
+  "homepage": "https://github.com/laddeyboy/weather-app-expressAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "nunjucks": "^3.1.3"
+  }
+}
